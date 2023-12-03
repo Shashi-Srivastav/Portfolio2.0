@@ -2,7 +2,8 @@ import {
   // ECmomLogo,
   PortfolioLogo,
   Map,
-  WeatherAppLogo,
+  Messenger,
+  Taskify,
   Spotify
 } from "../Assets/AssetsList";
 
@@ -31,5 +32,21 @@ export const ProjectList = [
     codeLink: "https://github.com/Shashi-Srivastav/Project-Melodify-a-Spotify-Clone-App",
     demoLink: "https://shashi-srivastav.github.io/Project-Melodify-a-Spotify-Clone-App/",
     info: "The Sportify Clone, crafted with HTML, CSS, and JavaScript, prioritizes dynamic user experiences through focused DOM events. The project's responsive interface mirrors a music streaming platform, showcasing meticulous design and seamless interactivity. JavaScript takes the lead in ensuring real-time updates and engaging user interactions, making the Sportify Clone a captivating showcase of technical proficiency and user-centric design.",
+  },
+  {
+    name: "Taskify",
+    image: Taskify,
+    skills: ["Next.js 13, React, Convex, Tailwind"],
+    codeLink: "https://github.com/Shashi-Srivastav/Taskify",
+    demoLink: "https://taskify-your-work.vercel.app/",
+    info: "I've successfully developed a Notion clone using the latest technologies, including Next.js 13 for the frontend, React for building dynamic user interfaces, Convex for state management, and Tailwind CSS for a sleek and responsive design. This project replicates the core functionalities of Notion, providing a powerful and user-friendly experience.",
+  },
+  {
+    name: "Messenger Clone",
+    image: Messenger,
+    skills: ["Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher"],
+    codeLink: "https://github.com/Shashi-Srivastav/Messenger",
+    demoLink: "https://dev-messenger.vercel.app/",
+    info: "I've crafted an impressive messenger clone using cutting-edge technologies. Leveraging Next.js 13 for a fast and seamless frontend, React for dynamic UI components, and Tailwind CSS for a polished design. The backend is powered by Prisma and MongoDB, ensuring efficient data management. Authentication is handled seamlessly with NextAuth, and real-time updates are facilitated through Pusher. This project delivers a feature-rich and responsive messaging platform, offering a robust user experience.",
   },
 ];

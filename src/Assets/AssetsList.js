@@ -4,7 +4,8 @@ import weatherAppLogo from "../Assets/Project-Images/Weather-amico.svg";
 import Mapp from "../Assets/Project-Images/Map.svg";
 import loader from "../Assets/loader.svg"
 import spotify from "../Assets/Project-Images/Playlist-amico.svg";
-// import github from
+import taskify from "../Assets/Project-Images/Taskify.svg";
+import messenger from "../Assets/Project-Images/messenger.svg";
 
 // Animations
 import aboutAnimation from "./Animations/AboutAnimation.json";
@@ -46,12 +47,14 @@ export const MainLogo =
 
 // All  Projects Images
 
-// export const ECmomLogo = ecommlogo;
+
 export const PortfolioLogo = portfolioLogo;
 export const WeatherAppLogo = weatherAppLogo;
 export const Loader = loader;
 export const Map = Mapp;
 export const Spotify = spotify;
+export const Taskify = taskify;
+export const Messenger = messenger;
 
 // All Animations
 
