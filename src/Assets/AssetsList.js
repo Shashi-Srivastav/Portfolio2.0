@@ -6,6 +6,7 @@ import loader from "../Assets/loader.svg"
 import spotify from "../Assets/Project-Images/Playlist-amico.svg";
 import taskify from "../Assets/Project-Images/Taskify.svg";
 import messenger from "../Assets/Project-Images/messenger.svg";
+import social from "../Assets/Project-Images/social2.0.svg";
 
 // Animations
 import aboutAnimation from "./Animations/AboutAnimation.json";
@@ -55,6 +56,7 @@ export const Map = Mapp;
 export const Spotify = spotify;
 export const Taskify = taskify;
 export const Messenger = messenger;
+export const Social = social;
 
 // All Animations
 

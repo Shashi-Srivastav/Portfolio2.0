@@ -4,6 +4,7 @@ import {
   Map,
   Messenger,
   Taskify,
+  Social,
   Spotify
 } from "../Assets/AssetsList";
 
@@ -48,5 +49,13 @@ export const ProjectList = [
     codeLink: "https://github.com/Shashi-Srivastav/Messenger",
     demoLink: "https://dev-messenger.vercel.app/",
     info: "I've crafted an impressive messenger clone using cutting-edge technologies. Leveraging Next.js 13 for a fast and seamless frontend, React for dynamic UI components, and Tailwind CSS for a polished design. The backend is powered by Prisma and MongoDB, ensuring efficient data management. Authentication is handled seamlessly with NextAuth, and real-time updates are facilitated through Pusher. This project delivers a feature-rich and responsive messaging platform, offering a robust user experience.",
+  },
+  {
+    name: "Snapgram",
+    image: Social,
+    skills: ["React JS, Appwrite, Tailwind CSS, React Query"],
+    codeLink: "https://github.com/Shashi-Srivastav/Social-App",
+    demoLink: "https://snapgram-dev.vercel.app/",
+    info: "I've developed a dynamic social app using React JS, integrating Appwrite for backend services, Tailwind CSS for a modern and responsive design, and React Query for efficient data fetching and management. Users can seamlessly post content, follow others, and bookmark posts, creating an engaging and interactive social experience. This project combines the power of React ecosystem and Appwrite's capabilities to provide a feature-rich platform for social interactions.",
   },
 ];
