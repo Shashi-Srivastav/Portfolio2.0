@@ -1,11 +1,11 @@
 import {
-  // ECmomLogo,
   PortfolioLogo,
   Map,
   Messenger,
   Taskify,
   Social,
-  Spotify
+  Spotify,
+  TikTok
 } from "../Assets/AssetsList";
 
 export const ProjectList = [
@@ -19,20 +19,20 @@ export const ProjectList = [
     mern:"true",
   },
   {
+    name: "TikTok Clone",
+    image: TikTok,
+    skills: ["Next JS, React, Typescript, Tailwind CSS, Zustand, AppWrite, Vercel"],
+    codeLink: "https://github.com/Shashi-Srivastav/TikTok-Clone",
+    demoLink: "https://tiktok-dev-clone.vercel.app/",
+    info: "I've successfully crafted a TikTok clone using cutting-edge technologies, including Next.js and React for the frontend, Typescript for enhanced code reliability, Tailwind CSS for a sleek and responsive design, Zustand for state management, and AppWrite for backend services. This project brings the excitement of short-form videos to life, combining the efficiency of Next.js, the clarity of Typescript, and the seamless deployment on Vercel for a smooth user experience.",
+  },
+  {
     name: "Personal Portfolio",
     image: PortfolioLogo,
     skills: ["TailWind, NextJS, EmailJS, BootStrap,Framer Motion"],
     codeLink: "",
     demoLink: "https://shashi-srivastava-portfolio.vercel.app/",
     info: "In my latest project, the Personal Portfolio developed with NextJS, I've curated a visually appealing and responsive interface. Employing Tailwind CSS for polished styling, Bootstrap icons for enhanced visuals, and Framer Motion for dynamic animations, the portfolio provides a modern and engaging user experience. For seamless communication, I've integrated Emailjs and MainJS, enabling direct email submissions from the portfolio. Explore the portfolio to discover the seamless blend of design and functionality.",
-  },
-  {
-    name: "Sportify Clone",
-    image: Spotify,
-    skills: ["HTML, CSS, JS"],
-    codeLink: "https://github.com/Shashi-Srivastav/Project-Melodify-a-Spotify-Clone-App",
-    demoLink: "https://shashi-srivastav.github.io/Project-Melodify-a-Spotify-Clone-App/",
-    info: "The Sportify Clone, crafted with HTML, CSS, and JavaScript, prioritizes dynamic user experiences through focused DOM events. The project's responsive interface mirrors a music streaming platform, showcasing meticulous design and seamless interactivity. JavaScript takes the lead in ensuring real-time updates and engaging user interactions, making the Sportify Clone a captivating showcase of technical proficiency and user-centric design.",
   },
   {
     name: "Taskify",
@@ -57,5 +57,13 @@ export const ProjectList = [
     codeLink: "https://github.com/Shashi-Srivastav/Social-App",
     demoLink: "https://snapgram-dev.vercel.app/",
     info: "I've developed a dynamic social app using React JS, integrating Appwrite for backend services, Tailwind CSS for a modern and responsive design, and React Query for efficient data fetching and management. Users can seamlessly post content, follow others, and bookmark posts, creating an engaging and interactive social experience. This project combines the power of React ecosystem and Appwrite's capabilities to provide a feature-rich platform for social interactions.",
+  },
+  {
+    name: "Sportify Clone",
+    image: Spotify,
+    skills: ["HTML, CSS, JS"],
+    codeLink: "https://github.com/Shashi-Srivastav/Project-Melodify-a-Spotify-Clone-App",
+    demoLink: "https://shashi-srivastav.github.io/Project-Melodify-a-Spotify-Clone-App/",
+    info: "The Sportify Clone, crafted with HTML, CSS, and JavaScript, prioritizes dynamic user experiences through focused DOM events. The project's responsive interface mirrors a music streaming platform, showcasing meticulous design and seamless interactivity. JavaScript takes the lead in ensuring real-time updates and engaging user interactions, making the Sportify Clone a captivating showcase of technical proficiency and user-centric design.",
   },
 ];
