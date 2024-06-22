@@ -33,7 +33,7 @@ import FastAPI from '../Assets/Skills/FastAPI.svg'
 import ExpressJS from '../Assets/Skills/ExpressJS.svg'
 import CPP from '../Assets/Skills/cpp.png'
 import Docker from '../Assets/Skills/docker.svg'
-import Parcel from '../Assets/Skills/parcel-seeklogo.svg'
+import Parcelsvg from '../Assets/Skills/parcel-seeklogo.svg'
 
 // Main  Logo
 
