@@ -33,6 +33,7 @@ import FastAPI from '../Assets/Skills/FastAPI.svg'
 import ExpressJS from '../Assets/Skills/ExpressJS.svg'
 import CPP from '../Assets/Skills/cpp.png'
 import Docker from '../Assets/Skills/docker.svg'
+import Parcel from '../Assets/Skills/parcel-seeklogo.svg'
 
 // Main  Logo
 
@@ -82,3 +83,4 @@ export const ExpressJSLogo = ExpressJS
 export const DockerLogo = Docker
 export const PostManLogo = PostMan
 export const CppLogo = CPP
+export const Parcel = Parcel

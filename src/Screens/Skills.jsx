@@ -8,7 +8,8 @@ import {
   PostgreSQLLogo,
   ReactJSLogo,
   TailwindCSSLogo,
-  CppLogo
+  CppLogo,
+  Parcel
 } from "../Assets/AssetsList";
 import GitHubCalender from "../Components/GitHubCalender";
 import SkillsCard from "../Components/SkillsCard";
@@ -25,7 +26,8 @@ const Skills = () => {
     GithubLogo,
     PostgreSQLLogo,
     PostManLogo,
-  CppLogo
+    CppLogo,
+    Parcel
   ];
 
   const TitleText = (
