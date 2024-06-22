@@ -83,4 +83,4 @@ export const ExpressJSLogo = ExpressJS
 export const DockerLogo = Docker
 export const PostManLogo = PostMan
 export const CppLogo = CPP
-export const Parcel = Parcel
+export const Parcel = Parcelsvg
