@@ -14,7 +14,7 @@ export const ProjectList = [
     image: Map,
     skills: ["JS, NodeJS, ExpressJS, MongoDB, Cloudnary, MapBox, Render, BootStrap"],
     codeLink: "https://github.com/Shashi-Srivastav/Namaste-Yatra",
-    demoLink: "https://namaste-yatra-by-shashi-srivastava.onrender.com/listings",
+    demoLink: "https://namaste-yatra.vercel.app/listings",
     info: "Namaste Yatra is a tech-driven travel platform leveraging a powerful stack to redefine user experiences. With JavaScript and Node.js at its core, the platform ensures real-time responsiveness. Express.js structures its architecture, while Bootstrap crafts a visually captivating front-end. MongoDB and Mongoose provide a flexible data layer, with MongoDB Atlas extending to the cloud. Passport ensures secure user authentication, and Joi enforces data integrity. Mapbox introduces spatial exploration, and Cloudinary optimizes image management. The platform's tech ensemble creates a dynamic and responsive environment, setting new standards in travel platforms.",
     mern:"true",
   },
