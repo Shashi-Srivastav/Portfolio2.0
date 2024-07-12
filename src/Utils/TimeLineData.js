@@ -23,7 +23,7 @@ const timelineItems = [
     icon: <FaGraduationCap />, 
     title: 'Sardar Beant Singh State University (SBSSU)',
     subTitle: `Bachelor's degree, Information Technology (IT)`,
-    description: 'Total CGPA: 7.80 (74.1%)',
+    description: 'Total CGPA: 8.0',
   },
   {
     date: <span className='text-lightText md:text-darkBg dark:text-lightText'> 2019 - 2020 </span>,

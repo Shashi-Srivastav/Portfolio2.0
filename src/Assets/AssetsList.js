@@ -8,6 +8,8 @@ import taskify from "../Assets/Project-Images/Taskify.svg";
 import messenger from "../Assets/Project-Images/messenger.svg";
 import social from "../Assets/Project-Images/social2.0.svg";
 import tiktok from "../Assets/Project-Images/Social share-amico.svg"
+import rasooi from "../Assets/Project-Images/Rasooi.svg"
+import portfolio from "../Assets/Project-Images/Portfolio2.0.svg"
 
 // Animations
 import aboutAnimation from "./Animations/AboutAnimation.json";
@@ -34,7 +36,8 @@ import ExpressJS from '../Assets/Skills/ExpressJS.svg'
 import CPP from '../Assets/Skills/cpp.png'
 import Docker from '../Assets/Skills/docker.svg'
 import Parcelsvg from '../Assets/Skills/parcel-seeklogo.svg'
-
+import Redux from '../Assets/Skills/Redux.svg'
+import Firebase from '../Assets/Skills/Firebase.svg'
 // Main  Logo
 
 export const MainLogo =
@@ -60,6 +63,8 @@ export const Taskify = taskify;
 export const Messenger = messenger;
 export const Social = social;
 export const TikTok = tiktok;
+export const Rasooi = rasooi;
+export const Portfolio = portfolio;
 
 // All Animations
 
@@ -84,3 +89,5 @@ export const DockerLogo = Docker
 export const PostManLogo = PostMan
 export const CppLogo = CPP
 export const Parcel = Parcelsvg
+export const ReduxLogo = Redux
+export const FirebaseLogo = Firebase

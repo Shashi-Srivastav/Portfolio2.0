@@ -5,13 +5,13 @@ import { ProjectList } from "../Utils/ProjectDetails";
 import Title from "../Components/Title";
 
 const Project = () => {
-  const Labels = ["All", "Mern", "Personal"];
+  const Labels = ["All", "MERN", "JS"];
   const [activeLabel, setActiveLabel] = useState(Labels[0]);
   const [projects, setProjects] = useState(ProjectList);
   const ref = useRef(null);
   const isInView = useInView(ref);
   const options = {
-    personal: ProjectList.filter((project) => !project.clientDemoLink),
+    js: ProjectList.filter((project) => project.js),
     all: ProjectList,
     mern: ProjectList.filter((project) => project.mern),
   };

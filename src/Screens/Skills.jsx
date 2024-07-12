@@ -9,7 +9,9 @@ import {
   ReactJSLogo,
   TailwindCSSLogo,
   CppLogo,
-  Parcel
+  Parcel,
+  ReduxLogo,
+  FirebaseLogo
 } from "../Assets/AssetsList";
 import GitHubCalender from "../Components/GitHubCalender";
 import SkillsCard from "../Components/SkillsCard";
@@ -27,7 +29,9 @@ const Skills = () => {
     PostgreSQLLogo,
     PostManLogo,
     CppLogo,
-    Parcel
+    Parcel,
+    ReduxLogo,
+    FirebaseLogo
   ];
 
   const TitleText = (
