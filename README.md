@@ -2,6 +2,46 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## File Structure
+# Portfolio2.0 File Structure
+
+```plaintext
+Portfolio2.0/
+├── public/
+│   ├── favicon.ico            # Favicon for the website
+│   ├── index.html             # Main HTML file
+│   ├── manifest.json          # Web app manifest
+│   ├── robots.txt             # Instructions for web crawlers
+│   └── assets/                # Directory for static assets like images
+│       ├── logo.png           # Logo image
+│       └── other assets
+├── src/
+│   ├── assets/                # Contains images, fonts, etc.
+│   │   ├── images/            # Image files
+│   │   └── styles/            # CSS and other style files
+│   ├── components/            # Reusable React components
+│   │   ├── Header.js          # Header component
+│   │   ├── Footer.js          # Footer component
+│   │   ├── About.js           # About section component
+│   │   └── other components
+│   ├── pages/                 # Page components for different routes
+│   │   ├── Home.js            # Home page component
+│   │   ├── Portfolio.js       # Portfolio page component
+│   │   ├── Contact.js         # Contact page component
+│   │   └── other pages
+│   ├── App.js                 # Main App component
+│   ├── index.js               # Entry point for React
+│   ├── reportWebVitals.js     # Performance measuring script
+│   ├── setupTests.js          # Configuration for testing
+│   └── other files            # Additional configuration or utility files
+├── .gitignore                 # Specifies files to be ignored by Git
+├── README.md                  # Project overview and instructions
+├── SECURITY.md                # Security policy details
+├── package.json               # Project metadata and dependencies
+├── package-lock.json          # Lockfile for dependencies
+└── tailwind.config.js         # Configuration for Tailwind CSS
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
