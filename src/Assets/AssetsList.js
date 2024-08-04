@@ -37,7 +37,12 @@ import CPP from '../Assets/Skills/cpp.png'
 import Docker from '../Assets/Skills/docker.svg'
 import Parcelsvg from '../Assets/Skills/parcel-seeklogo.svg'
 import Redux from '../Assets/Skills/Redux.svg'
-import Firebase from '../Assets/Skills/Firebase.svg'
+// import Firebase from '../Assets/Skills/Firebase.svg'
+import Zod from '../Assets/Skills/zod.svg'
+import Typescript from '../Assets/Skills/typescript.svg'
+import Aws from '../Assets/Skills/aws.svg'
+import Vercel from '../Assets/Skills/vercel.svg'
+import Prisma from '../Assets/Skills/prisma.svg'
 // Main  Logo
 
 export const MainLogo =
@@ -90,4 +95,9 @@ export const PostManLogo = PostMan
 export const CppLogo = CPP
 export const Parcel = Parcelsvg
 export const ReduxLogo = Redux
-export const FirebaseLogo = Firebase
+// export const FirebaseLogo = Firebase
+export const TypescriptLogo = Typescript
+export const ZodLogo = Zod
+export const VercelLogo = Vercel
+export const AwsLogo = Aws
+export const PrismaLogo = Prisma

@@ -11,7 +11,12 @@ import {
   CppLogo,
   Parcel,
   ReduxLogo,
-  FirebaseLogo
+  // FirebaseLogo,
+  AwsLogo,
+  PrismaLogo,
+  TypescriptLogo,
+  ZodLogo,
+  VercelLogo,
 } from "../Assets/AssetsList";
 import GitHubCalender from "../Components/GitHubCalender";
 import SkillsCard from "../Components/SkillsCard";
@@ -31,7 +36,12 @@ const Skills = () => {
     CppLogo,
     Parcel,
     ReduxLogo,
-    FirebaseLogo
+    AwsLogo,
+    PrismaLogo,
+    TypescriptLogo,
+    ZodLogo,
+    VercelLogo,
+    // FirebaseLogo
   ];
 
   const TitleText = (
