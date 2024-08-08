@@ -43,6 +43,7 @@ import Typescript from '../Assets/Skills/typescript.svg'
 import Aws from '../Assets/Skills/aws.svg'
 import Vercel from '../Assets/Skills/vercel.svg'
 import Prisma from '../Assets/Skills/prisma.svg'
+import CloudFlare from '../Assets/Skills/cloudf.svg'
 // Main  Logo
 
 export const MainLogo =
@@ -101,3 +102,4 @@ export const ZodLogo = Zod
 export const VercelLogo = Vercel
 export const AwsLogo = Aws
 export const PrismaLogo = Prisma
+export const CloudFlareLogo = CloudFlare

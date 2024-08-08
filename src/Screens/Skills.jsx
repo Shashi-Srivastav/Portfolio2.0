@@ -17,6 +17,7 @@ import {
   TypescriptLogo,
   ZodLogo,
   VercelLogo,
+  CloudFlareLogo,
 } from "../Assets/AssetsList";
 import GitHubCalender from "../Components/GitHubCalender";
 import SkillsCard from "../Components/SkillsCard";
@@ -41,6 +42,7 @@ const Skills = () => {
     TypescriptLogo,
     ZodLogo,
     VercelLogo,
+    CloudFlareLogo,
     // FirebaseLogo
   ];
 
