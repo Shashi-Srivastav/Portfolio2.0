@@ -44,6 +44,8 @@ import Aws from '../Assets/Skills/aws.svg'
 import Vercel from '../Assets/Skills/vercel.svg'
 import Prisma from '../Assets/Skills/prisma.svg'
 import CloudFlare from '../Assets/Skills/cloudf.svg'
+import PhP from '../Assets/Skills/PHP-logo.svg'
+import Laravel from '../Assets/Skills/laravel.svg'
 // Main  Logo
 
 export const MainLogo =
@@ -103,3 +105,5 @@ export const VercelLogo = Vercel
 export const AwsLogo = Aws
 export const PrismaLogo = Prisma
 export const CloudFlareLogo = CloudFlare
+export const PHPLogo = PhP
+export const LaravelLogo = Laravel

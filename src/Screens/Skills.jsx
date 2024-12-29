@@ -18,6 +18,8 @@ import {
   ZodLogo,
   VercelLogo,
   CloudFlareLogo,
+  PHPLogo,
+  LaravelLogo
 } from "../Assets/AssetsList";
 import GitHubCalender from "../Components/GitHubCalender";
 import SkillsCard from "../Components/SkillsCard";
@@ -43,7 +45,8 @@ const Skills = () => {
     ZodLogo,
     VercelLogo,
     CloudFlareLogo,
-    // FirebaseLogo
+    PHPLogo,
+    LaravelLogo,
   ];
 
   const TitleText = (

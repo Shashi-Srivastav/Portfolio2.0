@@ -2,7 +2,15 @@ import { FaBriefcase, FaGraduationCap, FaSchool,FaLaptopCode} from 'react-icons/
 
 const timelineItems = [
   {
-    date: <span className='text-lightText md:text-darkBg dark:text-lightText'>June 2023 - November 2023</span>,
+    date: <span className='text-lightText md:text-darkBg dark:text-lightText'>December 2024 - Present</span>,
+    position: 'left',
+    icon: <FaBriefcase />,
+    title: 'Software Developer (Paid Intern)',
+    subTitle: 'Him Soft Solution OPC Pvt. Ltd',
+    description: 'Worked on Building CRM Project, Official Website of HimSoft Solution using PHP, Laravel.',
+  },
+  {
+    date: <span className='text-lightText md:text-darkBg dark:text-lightText'>June 2024 - November 2024</span>,
     position: 'right',
     icon: <FaBriefcase />,
     title: 'Industrial Training And Intern',
